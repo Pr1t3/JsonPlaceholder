@@ -1,9 +1,16 @@
 {
-  "books": [
+  "books1": [
     {"NAME": "Книга 1", "AUTHOR": "Автор 1", "YEAR": 2001, "PAGES": 100, "TAGS": "fiction, adventure", "DESCRIPTION": "Описание книги 1"},
-    {"NAME": "Книга 2", "AUTHOR": "Автор 2", "YEAR": 2005, "PAGES": 250, "TAGS": "non-fiction, history", "DESCRIPTION": "Описание книги 2"},
-    {"NAME": "Книга 3", "AUTHOR": "Автор 3", "YEAR": 2010, "PAGES": 300, "TAGS": "science fiction, thriller", "DESCRIPTION": "Описание книги 3"},
-    {"NAME": "Книга 4", "AUTHOR": "Автор 4", "YEAR": 2015, "PAGES": 150, "TAGS": "fantasy, young adult", "DESCRIPTION": "Описание книги 4"},
-    {"NAME": "Книга 5", "AUTHOR": "Автор 5", "YEAR": 2020, "PAGES": 400, "TAGS": "mystery, crime", "DESCRIPTION": "Описание книги 5"}
+    {"NAME": "Книга 2", "AUTHOR": "Автор 2", "YEAR": 2002, "PAGES": 200, "TAGS": "non-fiction, history", "DESCRIPTION": "Описание книги 2"},
+    {"NAME": "Книга 3", "AUTHOR": "Автор 3", "YEAR": 2003, "PAGES": 300, "TAGS": "science fiction, thriller", "DESCRIPTION": "Описание книги 3"},
+    {"NAME": "Книга 4", "AUTHOR": "Автор 4", "YEAR": 2004, "PAGES": 400, "TAGS": "fantasy, young adult", "DESCRIPTION": "Описание книги 4"},
+    {"NAME": "Книга 5", "AUTHOR": "Автор 5", "YEAR": 2005, "PAGES": 500, "TAGS": "mystery, crime", "DESCRIPTION": "Описание книги 5"}
+  ],
+  "books2": [
+    {"NAME": "Книга 6", "AUTHOR": "Автор 6", "YEAR": 2006, "PAGES": 600, "TAGS": "fiction, adventure", "DESCRIPTION": "Описание книги 6"},
+    {"NAME": "Книга 7", "AUTHOR": "Автор 7", "YEAR": 2007, "PAGES": 700, "TAGS": "non-fiction, history", "DESCRIPTION": "Описание книги 7"},
+    {"NAME": "Книга 8", "AUTHOR": "Автор 8", "YEAR": 2008, "PAGES": 800, "TAGS": "science fiction, thriller", "DESCRIPTION": "Описание книги 8"},
+    {"NAME": "Книга 9", "AUTHOR": "Автор 9", "YEAR": 2009, "PAGES": 900, "TAGS": "fantasy, young adult", "DESCRIPTION": "Описание книги 9"},
+    {"NAME": "Книга 10", "AUTHOR": "Автор 10", "YEAR": 2010, "PAGES": 1000, "TAGS": "mystery, crime", "DESCRIPTION": "Описание книги 10"}
   ]
 }
